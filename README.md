@@ -2,5 +2,4 @@
 
 **`Estudante Engenharia de Computação`**
 
-".
 
